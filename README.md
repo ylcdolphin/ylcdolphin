@@ -1,4 +1,7 @@
-### Hi there 👋
+## Past
+I had been a doctoral student aiming at academic career. However, I determined to enter the software industry and acquired a M.S. instead.
+## Present
+## Future
 
 <!--
 **ylcdolphin/ylcdolphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
