@@ -1,5 +1,5 @@
 ## Past
-I had been a doctoral student aiming at academic career. However, I determined to enter the software industry and acquired a M.S. instead.
+I had been a doctoral student aiming at academic career. However, I determined to enter the software industry and acquired a M. S. degree instead.
 ## Present
 ## Future
 
