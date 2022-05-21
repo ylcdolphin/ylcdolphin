@@ -1,7 +1,9 @@
 ## Past
-I had been a doctoral student aiming at academic career. However, I determined to enter the software industry and acquired a M. S. degree instead.
+I had been a doctoral student aiming at an academic career. Simultaneously, I have had a chance to do software development in a startup, "Skin Beauty Pal," during my school days. The development experience taught me how programming works outside of school. Programming was more like Lego used to assemble the system to produce data I needed in my academic studies. Instead of the program itself, the data produced is more important. However, in the startup, the program itself was a product. I needed to optimize the program and ensure it was robust enough and thread-safe. In the startup, I also realized that integrating different software components requires delicate communication, especially the I/O data formats and the environment settings. After evaluating my passion for keeping on academic research and programming, I determined to acquire a master’s degree first and enter the software industry.
+
 ## Present
-## Future
+After leaving school, I started my one-year substitute military service until July 2022. It was the time when I started to learn about Github. I am still collecting and organizing what I can share. Besides, I am also learning about container-based development, JS, and Linux system programming.
+
 
 <!--
 **ylcdolphin/ylcdolphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
